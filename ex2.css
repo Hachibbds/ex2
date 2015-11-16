@@ -1,0 +1,113 @@
+body{
+	margin:0 0 0 0;
+}
+#top{
+    background-color: #709C3D;
+    position: fixed;
+    width: 1425px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 3px 1px 2px #807070;
+    top: 0;	
+}
+#bbox{
+    box-shadow: 2px 1px 31px #675A5A;
+    margin: 90px 50px 10px 70px;
+    height: 2400px;
+    width: 1200px;
+    border-radius: 12px;	
+}
+#c8{
+    text-shadow: 3px 2px 1px #2D480D;
+    text-align: center;
+    font-size: 40px;
+    padding: 80px 0 0 0;	
+}
+hr{
+	height: 4px;
+    background-color: #699832;	
+}
+#bi{
+    background-image: url("images/ex.jpg");
+    height: 510px;	
+}
+nav{
+	    text-align: center;
+    background-color: #9ABD71;
+    padding: 20px 0 20px 0;
+}
+nav a{
+    font-size: 20px;
+    color: #2E4810;
+    padding: 20px 50px 20px 50px;
+    border-right: 1px solid #5A7737;	
+}
+pre{
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 70px 0 70px 0;
+    color: #273C0F;
+    background-color: #ADA6A6;
+    opacity: 0.3;
+    margin: 110px 0 30px 0;	
+}
+#name{
+	    font-size: 50px;
+    font-weight: bold;
+    width: 250px;
+    padding: 0 0 0 150px;
+}
+#pic{
+    width: 250px;
+    padding: 0 0 0 150px;
+	
+}
+#pg{
+	    font-size: 20px;
+    margin: -250px 100px 0 440px;
+    border: 5px solid grey;
+    padding: 40px 20px 40px 20px;
+    border-radius: 13px;
+}
+#sb1{
+	    margin: 120px 620px 20px 130px;
+    padding: 10px 10px 10px 10px;
+    background-color: #8BB160;
+    width: 400px;
+    border-radius: 4px;
+}
+#sb2{
+    margin: -185px 80px 0px 600px;
+    padding: 10px 10px 25px 40px;
+    background-color: #8BB160;
+    width: 400px;
+    border-radius: 4px;
+}
+.ee{
+    text-align: center;
+    margin: 40px 0 0 0;
+    font-size: 50px;	
+}
+table{
+    background-color: #7BA24E;
+    border-collapse: collapse;
+    border-color: #527D20;
+    text-align: center;
+    width: 900px;
+    margin: 30px 0 0 150px;	
+}
+thead{
+	background-color: #427704;
+    color: white;
+}
+td{
+	padding:30px 30px 30px 30px;
+	
+}
+#v1{
+    margin: 0 0 0 400px;
+     padding: 70px 0 0 0;	
+}
+#a1{
+	margin: 0 0 0 450px;
+    padding: 70px 0 0 0;
+}
